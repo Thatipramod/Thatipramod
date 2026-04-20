@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 - 🤝 I’m looking for help with **Machine Learning Projects & Real-world Problem Solving**
 
-- 👨‍💻 All of my projects are available at [https://thatipramod.github.io/protfolio/](https://thatipramod.github.io/protfolio/)
+- 👨‍💻 All of my projects are available at [https://thatipramod.github.io/protfolio/](https://tpramod-portfolio.netlify.app/)
 
 - 💬 Ask me about **Python, Data Analysis, Basics of AI & ML**
 
