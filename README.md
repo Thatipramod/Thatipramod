@@ -56,12 +56,6 @@
 
 ---
 
-  ### 📊 GitHub Activity & Streak
+ ### 📊 GitHub Activity Graph
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thatipramod&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="80%" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/thatipramod/thatipramod/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</p>
+![Thati Pramod's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=thatipramod&theme=tokyonight&hide_border=true&area=true)
