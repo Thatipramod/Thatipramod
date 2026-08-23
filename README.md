@@ -56,8 +56,6 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity
 
-![Thati Pramod's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=thatipramod&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=thatipramod&layout=compact&theme=tokyonight&hide_border=true)
+![Thati Pramod's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=thatipramod&theme=tokyonight&hide_border=true)
