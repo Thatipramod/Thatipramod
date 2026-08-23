@@ -55,8 +55,10 @@
 </p>
 
 ---
-### 📊 GitHub Stats
+### 📊 GitHub Activity
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thatipramod&theme=radical&hide_border=true" alt="Thati Pramod's GitHub Stats" />
+  <a href="https://github.com/thatipramod">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=thatipramod&theme=tokyonight&hide_border=true&area=true" alt="Thati Pramod's GitHub Activity" width="100%" />
+  </a>
 </p>
