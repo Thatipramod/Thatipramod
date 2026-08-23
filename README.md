@@ -56,9 +56,3 @@
 
 ---
 
-### 📊 GitHub Profile Overview
-
-<p align="center">
-  <img src="https://metrics.lecaquo.dev/thatipramod?template=classic&base=header%2C%20activity%2C%20community&config.timezone=Asia%2FKolkata" alt="Metrics" width="48%"/>
-  <img src="https://metrics.lecaquo.dev/thatipramod?template=classic&base=&plugin_languages=yes&plugin_languages_sections=most-used&plugin_languages_details=percentage&config.timezone=Asia%2FKolkata" alt="Languages" width="48%"/>
-</p>
