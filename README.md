@@ -56,6 +56,6 @@
 
 ---
 
-### 📊 GitHub Activity
+### 📊 GitHub Stats
 
-![Thati Pramod's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=thatipramod&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=thatipramod&theme=tokyonight&hide_border=true)
