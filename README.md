@@ -26,10 +26,10 @@
   <a href="https://linkedin.com/in/thati-pramod" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:pramodthati03@gmail.com">
+  <a href="mailto:pramodthati04@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://drive.google.com/file/d/1dvnTxJMu3VoWX5Mfha88zr0yH-Ng085M/view?usp=drive_link" target="_blank">
+  <a href="https://drive.google.com/file/d/1eMHAVs5isO6XXFJauZ86oLfH8NueMHq3/view?usp=drive_link" target="_blank">
     <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume" />
   </a>
 </p>
