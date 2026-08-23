@@ -58,6 +58,5 @@
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats-eight.vercel.app/api?username=thatipramod&show_icons=true&theme=radical&hide_border=true" alt="Thati Pramod's GitHub Stats" />
+  <img src="https://github-readme-stats-git-masterrst-anuraghazra.vercel.app/api?username=thatipramod&show_icons=true&theme=radical&hide_border=true" alt="Thati Pramod's GitHub Stats" />
 </p>
-
