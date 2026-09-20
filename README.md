@@ -20,7 +20,7 @@
 ### 🌐 Connect & Portfolio
 
 <p align="left">
-  <a href="https://tpramod-portfolio.netlify.app/" target="_blank">
+  <a href="https://thatipramod-portfolio.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://linkedin.com/in/thati-pramod" target="_blank">
